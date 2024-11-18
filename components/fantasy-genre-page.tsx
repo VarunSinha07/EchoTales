@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { ChevronDown, Book, Feather, Home, Bookmark, User, Heart, Skull, Glasses, Wand2 } from 'lucide-react'
+import { ChevronDown, Feather, Home, Bookmark, User, Heart, Skull, Glasses, Wand2 } from 'lucide-react'
 
 import {
   DropdownMenu,

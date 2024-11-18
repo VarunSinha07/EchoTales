@@ -194,7 +194,7 @@ export function WriterDashboardComponent() {
                     <span className="text-sm font-medium text-gray-300">150k Views Goal</span>
                     <span className="text-sm font-medium text-gray-300">75%</span>
                   </div>
-                  <Progress value={75} className="w-[200px] bg-gray-700" indicatorClassName="bg-purple-500" />
+                  <Progress value={75} className="w-[200px] bg-gray-700" />
                 </div>
               </div>
             </CardContent>

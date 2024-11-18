@@ -125,7 +125,7 @@ export function LoginPageComponent() {
 
           <div className="text-center">
             <p>
-              Don't have an account?{" "}
+              Dont have an account?{" "}
               <a
                 href="/register"
                 className="text-purple-400 hover:text-purple-300 transition-colors duration-200"

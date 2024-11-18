@@ -183,7 +183,7 @@ export function StoryDetailPageComponent() {
                       </Button>
                     </div>
                   </div>
-                  <p className="mt-2 text-gray-200">This story is absolutely gripping! I can't wait for the next part.</p>
+                  <p className="mt-2 text-gray-200">This story is absolutely gripping! I cant wait for the next part.</p>
                 </CardContent>
               </Card>
             ))}

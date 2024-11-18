@@ -179,7 +179,7 @@ export function StorySubmissionPageComponent() {
               <li>Ensure your story is original and does not infringe on copyrights.</li>
               <li>Proofread your work for spelling and grammatical errors.</li>
               <li>Aim for a word count between 1,000 and 10,000 words for optimal engagement.</li>
-              <li>Choose relevant tags to increase your story's discoverability.</li>
+              <li>Choose relevant tags to increase your storys discoverability.</li>
               <li>If submitting an audiobook, ensure clear audio quality and proper pacing.</li>
             </ul>
           </CardContent>

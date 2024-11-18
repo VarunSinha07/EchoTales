@@ -108,7 +108,7 @@ export function HomePageComponent() {
               <div
                 key={story.id}
                 className="bg-gray-800 rounded-lg overflow-hidden transform transition-all duration-300 hover:scale-105 hover:shadow-lg"
-                onMouseEnter={() => setHoveredStory(story.id)}
+                onMouseEnter={() => setHoveredStory(null)}
                 onMouseLeave={() => setHoveredStory(null)}
               >
                 <div className="p-6">
